@@ -1,6 +1,6 @@
 # Worker specifics
 
-- worker-id: 
+- worker-id: 1.14.248
 - worker-account: escrow.zavod.premik
 - worker name: BitShares Legal Attorney and Representative 2020
 - company name: "Zavod Premik" (eng. "Move Institute)
