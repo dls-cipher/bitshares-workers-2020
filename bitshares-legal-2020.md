@@ -132,3 +132,4 @@ first as actual public verification of "Move Institute" as new legal representat
 - All complaints, reports or questions please send to legal@move-institute.si
 - "Move Institute" office is available for scheduled meetings or communication by email, from Monday to Friday during business hours ( 10:00-17:00 ).
 - Milos (DL) Preocanin, acting CEO of "Move Institute" is primary contact for Technology and Relations with Community.
+- All excess BTS Core token funds remaining will be reserved (burned) back to blockchain upon expiry/completion of the worker. 
