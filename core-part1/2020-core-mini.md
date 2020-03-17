@@ -32,15 +32,15 @@ The intent of this worker is to provide funding for development, testing, and de
 Detailed Roadmap and Estimates
 ==============================
 
-[] Fix `negative balances`
-[] Development for [BSIP 64: Operational HTLC preimage length, HASH160 addition, and memo field](https://github.com/bitshares/bsips/blob/master/bsip-0064.md) (up to 12 hours)
-[] Development for [BSIP 74: Margin Call Fee Ratio](https://github.com/bitshares/bsips/blob/master/bsip-0074.md) (up to 60 hours)
-[] Development for [BSIP 81: Simple Maker-Taker Market Fees](https://github.com/bitshares/bsips/blob/master/bsip-0081.md) (up to 100 hours)
-[] Development for [BSIP 86: Share market fee to the network](https://github.com/bitshares/bsips/blob/master/bsip-0086.md) (up to 60 hours)
-[] Final Development for NanoLedger BTS Integration and testing (up to 30 hours)
-[] Testnet re-deployment and Testing 4.x (up to 250 hours)
-[] Deployment of final BitShares Mainnet 4.0 release (50-75 hours)
-[] Documentation (BSIP, User and Dev) and GitHub/Wiki maintenance and updates (up to 150 hours for entire team)
+[ ] Fix `negative balances`
+[ ] Development for [BSIP 64: Operational HTLC preimage length, HASH160 addition, and memo field](https://github.com/bitshares/bsips/blob/master/bsip-0064.md) (up to 12 hours)
+[ ] Development for [BSIP 74: Margin Call Fee Ratio](https://github.com/bitshares/bsips/blob/master/bsip-0074.md) (up to 60 hours)
+[ ] Development for [BSIP 81: Simple Maker-Taker Market Fees](https://github.com/bitshares/bsips/blob/master/bsip-0081.md) (up to 100 hours)
+[ ] Development for [BSIP 86: Share market fee to the network](https://github.com/bitshares/bsips/blob/master/bsip-0086.md) (up to 60 hours)
+[ ] Final Development for NanoLedger BTS Integration and testing (up to 30 hours)
+[ ] Testnet re-deployment and Testing 4.x (up to 250 hours)
+[ ] Deployment of final BitShares Mainnet 4.0 release (50-75 hours)
+[ ] Documentation (BSIP, User and Dev) and GitHub/Wiki maintenance and updates (up to 150 hours for entire team)
 
 
 BitShares Core Team Members, Roles and Budgeted Effort
