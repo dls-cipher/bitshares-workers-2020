@@ -66,11 +66,11 @@ Total max. time on project: **~1120 hours** *(with safety buffer 15% and potenti
 
 | Roles (described below)         | Rate (USD) | 
 |:------------------------------- | :---------:|
-| Manager                         |  $30/hour  | 
+| Manager                         |  $35/hour  | 
 | Senior Core Developer           |  $70/hour  | 
 | Quality Assurance Auditor       |  $70/hour  | 
-| Documentation Specialist        |  $30/hour  | 
-| ZHS Translation specialist      |  $30/hour  |
+| Documentation Specialist        |  $35/hour  | 
+| ZHS Translation specialist      |  $35/hour  |
 
 
 **Hardcap definition:**
