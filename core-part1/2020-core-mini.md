@@ -32,6 +32,7 @@ The intent of this worker is to provide funding for development, testing, and de
 Detailed Roadmap and Estimates
 ==============================
 
+- Fix `negative balances`
 - Development for [BSIP 64: Operational HTLC preimage length, HASH160 addition, and memo field](https://github.com/bitshares/bsips/blob/master/bsip-0064.md) (up to 12 hours)
 - Development for [BSIP 74: Margin Call Fee Ratio](https://github.com/bitshares/bsips/blob/master/bsip-0074.md) (up to 60 hours)
 - Development for [BSIP 81: Simple Maker-Taker Market Fees](https://github.com/bitshares/bsips/blob/master/bsip-0081.md) (up to 100 hours)
@@ -59,7 +60,7 @@ BitShares Core Team constitutes a small, dedicated, and seasoned group of profes
 | Senior Core Developer/BA          | $70/hour  | 3500 BTS                | Michel Santos           | 30 hours weekly   |
 | ZHS Translation specialist        | $35/hour  | 1750 BTS                | Linda Tian              |  5 hours weekly   |
 
-Total max. project estimate: **~3000 hours** *(without safety buffer 15% and potential issues with final releases/production)*
+Total max. time on project: **~1120 hours** *(with safety buffer 15% and potential issues with final releases/production)*
 
 **Team Roles and Rates**
 
