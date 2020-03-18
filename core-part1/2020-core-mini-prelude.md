@@ -37,7 +37,7 @@ Detailed Roadmap and Estimates
 - [ ] Development for [BSIP 74: Margin Call Fee Ratio](https://github.com/bitshares/bsips/blob/master/bsip-0074.md) (up to 60 hours)
 - [ ] Development for [BSIP 81: Simple Maker-Taker Market Fees](https://github.com/bitshares/bsips/blob/master/bsip-0081.md) (up to 100 hours)
 - [ ] Development for [BSIP 86: Share market fee to the network](https://github.com/bitshares/bsips/blob/master/bsip-0086.md) (up to 60 hours)
-- [ ] Development for [BSIP 87: Simple Maker-Taker Market Fees](https://github.com/bitshares/bsips/blob/master/bsip-0081.md) (up to 60 hours)
+- [ ] Development for [BSIP 87: Force Settlement Fee](https://github.com/bitshares/bsips/blob/master/bsip-0087.md) (up to 60 hours)
 - [ ] Final Development for NanoLedger BTS Integration and testing (up to 30 hours)
 - [ ] Testnet re-deployment and Testing 4.x (up to 250 hours)
 - [ ] Deployment of final BitShares Mainnet 4.0 release (50-75 hours)
