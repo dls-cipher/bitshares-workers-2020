@@ -51,15 +51,15 @@ BitShares Core Team constitutes a small, dedicated, and seasoned group of profes
 
  **Table 1. BitShares Core Team Positions, Availability and Rates (Weekly)**
 
-| Roles (described below)           | Rate (USD)| (BTS) Value @ $0.013 USD | Team Member             | Available Hours   |
+| Roles (described below)           | Rate (USD)| (BTS) Value @ $0.015 USD | Team Member             | Available Hours   |
 |:--------------------------------- | ---------:|:----------------------- |:----------------------- |:----------------- |
-| Worker Manager                    | $35/hour  | 2690 BTS                | Milos Preocanin         | 20 hours weekly   |
-| Documentation specialist          | $35/hour  | 2690 BTS                | ---------------         | 20 hours weekly   |
-| Audit/Senior Core Developer       | $75/hour  | 5770 BTS                | Abit More               | 20 hours weekly   |
-| Senior Core Developer             | $75/hour  | 5770 BTS                | Christopher Sanborn     | 20 hours weekly   |
-| Senior Core Developer             | $75/hour  | 5770 BTS                | John Jones              | 30 hours weekly   |
-| Senior Core Developer/BA          | $75/hour  | 5770 BTS                | Michel Santos           | 30 hours weekly   |
-| ZHS Translation specialist        | $35/hour  | 2690 BTS                | Linda Tian              |  5 hours weekly   |
+| Worker Manager                    | $35/hour  | 2333 BTS                | Milos Preocanin         | 20 hours weekly   |
+| Documentation specialist          | $35/hour  | 2333 BTS                | ---------------         | 20 hours weekly   |
+| Audit/Senior Core Developer       | $70/hour  | 4666 BTS                | Abit More               | 20 hours weekly   |
+| Senior Core Developer             | $70/hour  | 4666 BTS                | Christopher Sanborn     | 20 hours weekly   |
+| Senior Core Developer             | $70/hour  | 4666 BTS                | John Jones              | 30 hours weekly   |
+| Senior Core Developer/BA          | $70/hour  | 4666 BTS                | Michel Santos           | 30 hours weekly   |
+| ZHS Translation specialist        | $35/hour  | 2333 BTS                | Linda Tian              |  5 hours weekly   |
 
 Total max. possible time on project: **~1250 hours** *(with safety buffer 15% and potential issues with final releases/production)*
 
@@ -68,14 +68,18 @@ Total max. possible time on project: **~1250 hours** *(with safety buffer 15% an
 | Roles (described below)         | Rate (USD) | 
 |:------------------------------- | :---------:|
 | Manager                         |  $35/hour  | 
-| Senior Core Developer           |  $75/hour  | 
-| Quality Assurance Auditor       |  $75/hour  | 
+| Senior Core Developer           |  $70/hour  | 
+| Quality Assurance Auditor       |  $70/hour  | 
 | Documentation Specialist        |  $35/hour  | 
 | ZHS Translation specialist      |  $35/hour  |
 
 
 **Hardcap/premium definition:**
-This Worker reintroduces payouts in BTS, instead of fiat equivalent BitAssets. As such, in the case of appreciation in value of the BTS token over time, this worker will cap employee pay at the value of 0.0175 USD per 1 BTS token. The worker begins at lower core rate for hours in concessions to the depreciation of the BTS token value.  BTS payouts are considered fixed (per table 1) as long as the price is <0.0175 USD per 1 BTS token. In case of the price >0.0175 USD, amount of BTS used for payout will be capped such that:  Maximum USD = BTS fixed rates defined in this worker * 0.0175.  
+This Worker reintroduces payouts in BTS, instead of fiat equivalent BitAssets. As such, in the case of appreciation in value of the BTS token over time, this worker will cap employee pay at the value of 0.015 USD per 1 BTS token, and the paid BTS amount will be calculated by this formula：
+
+`hourly paid BTS amount = min(cap amount, 1.5 * Rate_in_USD/BTS_market_price)`
+
+In other words, BTS payouts are considered fixed (per table 1) as long as the price is <0.0225 USD per 1 BTS token. In case of the price >0.0225 USD, amount of BTS used for payout will worth 1.5 times of the rates in USD based on the BTS market price.
 
 Terms of Worker/Agreement
 ==================
