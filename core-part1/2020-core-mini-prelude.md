@@ -16,10 +16,10 @@ discussions:
    url: 
  - name: 
    url: 
-max-budget: 6,073,035.00000 BTS
+max-budget: 5,263,369.50000 BTS
 duration: 2 months (8.7 weeks)
-Start: 2020/03/21
-End: 2020/05/24
+Start: 2020/03/25
+End: 2020/05/28
 paymentaccount: 
 ---
 
@@ -55,10 +55,10 @@ BitShares Core Team constitutes a small, dedicated, and seasoned group of profes
 |:--------------------------------- | ---------:|:----------------------- |:----------------------- |:----------------- |
 | Worker Manager                    | $35/hour  | 2333 BTS                | Milos Preocanin         | 20 hours weekly   |
 | Documentation specialist          | $35/hour  | 2333 BTS                | ---------------         | 20 hours weekly   |
-| Audit/Senior Core Developer       | $70/hour  | 4666 BTS                | Abit More               | 20 hours weekly   |
-| Senior Core Developer             | $70/hour  | 4666 BTS                | Christopher Sanborn     | 20 hours weekly   |
-| Senior Core Developer             | $70/hour  | 4666 BTS                | John Jones              | 30 hours weekly   |
-| Senior Core Developer/BA          | $70/hour  | 4666 BTS                | Michel Santos           | 30 hours weekly   |
+| Audit/Senior Core Developer       | $75/hour  | 5000 BTS                | Abit More               | 20 hours weekly   |
+| Senior Core Developer             | $75/hour  | 5000 BTS                | Christopher Sanborn     | 20 hours weekly   |
+| Senior Core Developer             | $75/hour  | 5000 BTS                | John Jones              | 30 hours weekly   |
+| Senior Core Developer/BA          | $75/hour  | 5000 BTS                | Michel Santos           | 30 hours weekly   |
 | ZHS Translation specialist        | $35/hour  | 2333 BTS                | Linda Tian              |  5 hours weekly   |
 
 Total max. possible time on project: **~1250 hours** *(with safety buffer 15% and potential issues with final releases/production)*
@@ -68,8 +68,8 @@ Total max. possible time on project: **~1250 hours** *(with safety buffer 15% an
 | Roles (described below)         | Rate (USD) | 
 |:------------------------------- | :---------:|
 | Manager                         |  $35/hour  | 
-| Senior Core Developer           |  $70/hour  | 
-| Quality Assurance Auditor       |  $70/hour  | 
+| Senior Core Developer           |  $75/hour  | 
+| Quality Assurance Auditor       |  $75/hour  | 
 | Documentation Specialist        |  $35/hour  | 
 | ZHS Translation specialist      |  $35/hour  |
 
@@ -86,7 +86,7 @@ Terms of Worker/Agreement
 
 1) Team hour reports and code audit will be done once every 3 weeks. A single collective team invoice will be issued by the Worker Manager (Milos Preocanin) with previous approval by the Audit Manager (Abit More).
 
-2) This worker max budget is calculated by the max amount of hours available by each team member. All unspent BTS core token will be returned to the reserves.
+2) This worker max budget is calculated by the max amount of hours available by each team member. **All unspent BTS core token will be returned to the reserve pool by appointed escrow**.
 
 3) Milos Preocanin will be held as the principal responsible contact for this worker, on behalf of “Zavod Premik”.
 
