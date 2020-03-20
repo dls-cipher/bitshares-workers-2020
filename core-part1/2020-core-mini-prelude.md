@@ -86,7 +86,7 @@ Terms of Worker/Agreement
 
 1) Team hour reports and code audit will be done once every 3 weeks. A single collective team invoice will be issued by the Worker Manager (Milos Preocanin) with previous approval by the Audit Manager (Abit More).
 
-2) This worker max budget is calculated by the max amount of hours available by each team member. **All unspent BTS core token will be returned to the reserve pool by appointed escrow**.
+2) This worker max budget is calculated by the max amount of hours available by each team member. **All unused BTS will be returned to the reserve pool by appointed escrow**.
 
 3) Milos Preocanin will be held as the principal responsible contact for this worker, on behalf of “Zavod Premik”.
 
@@ -99,3 +99,8 @@ Terms of Worker/Agreement
 6.1. In case of Point 6), Worker Manager will look for alternative resources to join the team in order to deliver release.
 
 6.2. Releases will not be postponed in case of Point 6), but just exclude missing deliveries
+
+## Important Notice to BTS Core Token Holders
+
+By approving this worker you're not approving BSIP's available for voting on chain that are included in this worker. 
+To avoid any delays with mainnet release upon delivery of this worker, please provide vote of support to listed BSIP's within 45 days from the worker start.
